@@ -1,0 +1,10 @@
+.heading_one
+{
+    width: 100%;
+    text-align: left;
+}
+
+.footer
+{
+    position: sticky;
+}
